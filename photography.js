@@ -1,5 +1,5 @@
 document.addEventListener('DOMContentLoaded', () => {
-    const services = generateUniqueServices(20); // Reduced count for better performance
+    const services = generateUniqueServices(20);
 
     const serviceList = document.getElementById('service-list');
 
